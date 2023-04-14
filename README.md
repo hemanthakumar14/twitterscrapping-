@@ -22,7 +22,7 @@ After scraping, the data needs to be displayed in the page and need a button to 
 
 Results:
 
-       You have to build a solution that should be able to scrape the twitter data and store that in the database and allow the user to download the data 
+       I have to build a solution that should be able to scrape the twitter data and store that in the database and allow the user to download the data 
        with multiple data formats.
 
 
